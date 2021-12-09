@@ -13,7 +13,10 @@
 .engimg-content{
     background-color: #d2d046;
 }
-
+.engimg-content h3{
+font-size: 30px;
+font-weight: bolder;
+}
 .engimg-img img{
     width:100%;
     height: auto;
