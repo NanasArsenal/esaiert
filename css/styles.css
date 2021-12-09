@@ -9,3 +9,12 @@
     padding: 05px;
     transition: 500ms;
 }
+
+.engimg-content{
+    background-color: #d2d046;
+}
+
+.engimg-img img{
+    width:100%;
+    height: auto;
+}
