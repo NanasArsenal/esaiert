@@ -21,3 +21,30 @@ font-weight: bolder;
     width:100%;
     height: auto;
 }
+
+.services{  
+    transition: 1s;
+    height: 550px;
+    cursor: pointer;
+}
+
+.projects{
+    transition: 1s;
+    height: 550px;
+    cursor: pointer;
+}
+
+
+.button-dark{
+    padding: 10px;
+    background: black;
+    color: #d2d046;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button-dark:hover{
+    padding: 15px;
+    transition: .5s;
+
+}
