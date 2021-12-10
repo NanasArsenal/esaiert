@@ -23,13 +23,13 @@ font-weight: bolder;
 }
 
 .services{  
-    transition: 1s;
+
     height: 550px;
     cursor: pointer;
 }
 
 .projects{
-    transition: 1s;
+ 
     height: 550px;
     cursor: pointer;
 }
@@ -40,6 +40,7 @@ font-weight: bolder;
     background: black;
     color: #d2d046;
     font-size: small;
+    border: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -47,4 +48,58 @@ font-weight: bolder;
     padding: 15px;
     transition: .5s;
 
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+#projectsservices{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.footer{
+    background-color: #050505ab;
+    margin-left: 30px;
+    margin-right: 30px;
+/* display: flex;
+     */
+}
+
+
+
+
+.contact-info ul li{
+    list-style: none;
+    color: aliceblue;
+    margin: auto;
+}
+
+
+
+.newsletter h1{
+    color: aliceblue;
+}
+.newsletter p{
+    color: aliceblue;
+}
+
+.textinpt{
+    padding: 8px;
+    border: none;
+}
+
+.textinpt:active{
+    border: none;
+}
+
+.button-sub{
+    padding: 10px;
+    background-color:#d2d046;
+    color:  black;
+    font-size: small;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
