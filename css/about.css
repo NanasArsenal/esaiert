@@ -1,0 +1,34 @@
+.About{
+    background-color: #d2d046;
+    margin-bottom: 100px;
+    border-radius: 5px;
+}
+.About:hover{
+    padding: 20px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+
+.mission{
+    background-color: #d2d046;
+    margin-bottom: 100px;
+    border-radius: 5px;
+}
+.mission:hover{
+    padding: 20px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.vision{
+    background-color: #d2d046;
+    margin-bottom: 100px;
+    border-radius: 5px;
+}
+
+.vision:hover{
+    padding: 20px;
+    transition: 1s;
+    cursor: pointer;
+}
